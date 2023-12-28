@@ -6,6 +6,7 @@ This Python-based project simulates a terminal-operated coffee machine that allo
 - **Coffee Selection**: Choose between cappuccino, latte, or americano.
 - **Currency Handling**: Accepts various denominations of coins and bills for payment.
 - **Resource Management**: Tracks resources and alerts when they're insufficient for an order.
+- **Profit Calculation**: Automatically calculates the profit earned from coffee sales.
 
 ## Requirements
 - Python (any version)
@@ -38,8 +39,8 @@ while is_on:
             coffe_maker.make_coffee(drink)
 ```
 
-##Contributing
+## Contributing
 Contributions are welcome! If you're interested in adding more functionalities or enhancing the backend, feel free to submit a pull request.
 
-##License
+## License
 This project is open-source, allowing others to use and modify it according to their needs and preferences.
