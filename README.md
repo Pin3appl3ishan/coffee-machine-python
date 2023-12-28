@@ -40,7 +40,9 @@ while is_on:
 ```
 
 ## Contributing
-Contributions are welcome! If you're interested in adding more functionalities or enhancing the backend, feel free to submit a pull request.
+
+-Contributions are welcome! If you're interested in adding more functionalities or enhancing the backend, feel free to submit a pull request.
 
 ## License
-This project is open-source, allowing others to use and modify it according to their needs and preferences.
+
+-This project is open-source, allowing others to use and modify it according to their needs and preferences.
